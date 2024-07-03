@@ -1,0 +1,39 @@
+.app-container{
+    background-color: rgb(217, 192, 241);
+}
+.float-container{
+    width: 1000px;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 20px;
+}
+.left-image{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
+.right-image{
+    float: right;
+    width: 100px;
+    height: 100px;
+    margin-left: 15px;
+}
+.none-image{
+    float: none;
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
+.clear-container{
+    width: 1000px;
+    padding: 15px;
+    border: 2px solid black;
+    margin: 20px;
+}
+.clear-left-image{
+    clear: left;
+    width: 100px;
+    height: 100px;
+    margin-right: 15px;
+}
